@@ -1,0 +1,3 @@
+[2022-10-05 23:29:16.1803] [FluentValidationOperationFilter should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'] 
+[2022-10-05 23:29:16.1972] [FluentValidationRules should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'] 
+[2022-10-05 23:29:26.7360] [Task Performance (Demo): GetAllUsersCommand (1595 milliseconds)] 

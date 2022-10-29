@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NMRAPIs.Api</name>
+    </assembly>
+    <members>
+        <member name="T:NMRAPIs.Api.Controllers.AddressesController">
+            <summary>
+            Controller to perform related functions of <see cref="T:NMRAPIs.BusinessLogic.ServicesInterfaces.Oracle.IUserService"/> service.
+            </summary>
+        </member>
+        <member name="M:NMRAPIs.Api.Controllers.AddressesController.#ctor(MediatR.IMediator,Microsoft.Extensions.Options.IOptions{NMRAPIs.Core.Constants.AzureAdSettings})">
+            <summary>
+            Initializes a new instance of the <see cref="T:NMRAPIs.Api.Controllers.ProfileController"/> class.
+            </summary>
+            <param name="mediator">Instance of <see cref="T:MediatR.IMediator"/> class.</param>
+        </member>
+        <member name="T:NMRAPIs.Api.Controllers.Oracle.AddressesController">
+            <summary>
+            Controller to perform related functions of <see cref="T:NMRAPIs.BusinessLogic.ServicesInterfaces.Oracle.IUserService"/> service.
+            </summary>
+        </member>
+        <member name="M:NMRAPIs.Api.Controllers.Oracle.AddressesController.#ctor(MediatR.IMediator,Microsoft.Extensions.Options.IOptions{NMRAPIs.Core.Constants.AzureAdSettings})">
+            <summary>
+            Initializes a new instance of the <see cref="T:NMRAPIs.Api.Controllers.Oracle.AddressesController"/> class.
+            </summary>
+            <param name="mediator">Instance of <see cref="T:MediatR.IMediator"/> class.</param>
+        </member>
+        <member name="M:NMRAPIs.Api.Controllers.Oracle.AddressesController.GetAllAddresses(System.String)">
+            <summary>
+            Returns the list of all address.
+            </summary>
+            <returns>List of users .</returns>
+        </member>
+        <member name="M:NMRAPIs.Api.Controllers.Oracle.AddressesController.GetAddressById(System.Int32)">
+            <summary>
+            Returns the list of all address.
+            </summary>
+            <returns>List of users .</returns>
+        </member>
+        <member name="T:NMRAPIs.Api.Controllers.Oracle.DepartmentsController">
+            <summary>
+            Controller to perform related functions of <see cref="T:NMRAPIs.BusinessLogic.ServicesInterfaces.Oracle.IUserService"/> service.
+            </summary>
+        </member>
+        <member name="M:NMRAPIs.Api.Controllers.Oracle.DepartmentsController.#ctor(MediatR.IMediator,Microsoft.Extensions.Options.IOptions{NMRAPIs.Core.Constants.AzureAdSettings})">
+            <summary>
+            Initializes a new instance of the <see cref="T:NMRAPIs.Api.Controllers.Oracle.DepartmentsController"/> class.
+            </summary>
+            <param name="mediator">Instance of <see cref="T:MediatR.IMediator"/> class.</param>
+        </member>
+        <member name="M:NMRAPIs.Api.Controllers.Oracle.DepartmentsController.GetAllDepartments">
+            <summary>
+            Returns the list of all departments.
+            </summary>
+            <returns>List of departments .</returns>
+        </member>
+        <member name="M:NMRAPIs.Api.Controllers.Oracle.DepartmentsController.GetDepartmentById(System.Int32)">
+            <summary>
+            Returns the department.
+            </summary>
+            <returns>department.</returns>
+        </member>
+        <member name="T:NMRAPIs.Api.Controllers.Oracle.EventsController">
+            <summary>
+            Controller to perform related functions of <see cref="T:NMRAPIs.BusinessLogic.ServicesInterfaces.Oracle.IUserService"/> service.
+            </summary>
+        </member>
+        <member name="M:NMRAPIs.Api.Controllers.Oracle.EventsController.#ctor(MediatR.IMediator,Microsoft.Extensions.Options.IOptions{NMRAPIs.Core.Constants.AzureAdSettings})">
+            <summary>
+            Initializes a new instance of the <see cref="T:NMRAPIs.Api.Controllers.Oracle.EventsController"/> class.
+            </summary>
+            <param name="mediator">Instance of <see cref="T:MediatR.IMediator"/> class.</param>
+        </member>
+        <member name="M:NMRAPIs.Api.Controllers.Oracle.EventsController.GetEventById(System.Int32)">
+            <summary>
+            Returns the Event.
+            </summary>
+            <returns>Event.</returns>
+        </member>
+        <member name="T:NMRAPIs.Api.Controllers.Oracle.UsersController">
+            <summary>
+            Controller to perform related functions of <see cref="T:NMRAPIs.BusinessLogic.ServicesInterfaces.Oracle.IUserService"/> service.
+            </summary>
+        </member>
+        <member name="M:NMRAPIs.Api.Controllers.Oracle.UsersController.#ctor(MediatR.IMediator,Microsoft.Extensions.Options.IOptions{NMRAPIs.Core.Constants.AzureAdSettings})">
+            <summary>
+            Initializes a new instance of the <see cref="T:NMRAPIs.Api.Controllers.ProfileController"/> class.
+            </summary>
+            <param name="mediator">Instance of <see cref="T:MediatR.IMediator"/> class.</param>
+        </member>
+        <member name="M:NMRAPIs.Api.Controllers.Oracle.UsersController.GetAll">
+            <summary>
+            Returns the list of the Users.
+            </summary>
+            <returns>List of users .</returns>
+        </member>
+        <member name="T:NMRAPIs.Api.Controllers.ProfileController">
+            <summary>
+            Controller to perform related functions of <see cref="T:NMRAPIs.BusinessLogic.ServicesInterfaces.IProfileService"/> service.
+            </summary>
+        </member>
+        <member name="M:NMRAPIs.Api.Controllers.ProfileController.#ctor(MediatR.IMediator,Microsoft.Extensions.Options.IOptions{NMRAPIs.Core.Constants.AzureAdSettings})">
+            <summary>
+            Initializes a new instance of the <see cref="T:NMRAPIs.Api.Controllers.ProfileController"/> class.
+            </summary>
+            <param name="mediator">Instance of <see cref="T:MediatR.IMediator"/> class.</param>
+        </member>
+        <member name="M:NMRAPIs.Api.Controllers.ProfileController.GetAllUsers">
+            <summary>
+            Returns the list of the Users.
+            </summary>
+            <returns>List of users .</returns>
+        </member>
+        <member name="M:NMRAPIs.Api.Program.Main(System.String[])">
+            <summary>
+            Main Entry point for the Application.
+            </summary>
+            <param name="args">Program Arguments.</param>
+        </member>
+        <member name="M:NMRAPIs.Api.Program.CreateWebHostBuilder(System.String[])">
+            <summary>
+            Web Host Builder.
+            </summary>
+            <param name="args">Arguments for the Host Builder.</param>
+            <returns>IWebHostBuilder.</returns>
+        </member>
+        <member name="T:NMRAPIs.Api.Startup">
+            <summary>
+            .Net Core Startup Class.
+            </summary>
+        </member>
+        <member name="M:NMRAPIs.Api.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            Initializes a new instance of the <see cref="T:NMRAPIs.Api.Startup"/> class.
+            </summary>
+            <param name="configuration">configuration.</param>
+            <param name="environment">environment.</param>
+        </member>
+        <member name="P:NMRAPIs.Api.Startup.HostingEnvironment">
+            <summary>
+            Gets hostingEnvironment.
+            </summary>
+        </member>
+        <member name="P:NMRAPIs.Api.Startup.Configuration">
+            <summary>
+            Gets the Configuration.
+            </summary>
+        </member>
+        <member name="M:NMRAPIs.Api.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            This method gets called by the runtime. Use this method to add services to the container.
+            </summary>
+            <param name="services">IServiceCollection.</param>
+        </member>
+        <member name="T:NMRAPIs.Api.SwaggerCSRFParameter">
+            <summary>
+            SwaggerCSRFParameter.
+            </summary>
+        </member>
+        <member name="M:NMRAPIs.Api.SwaggerCSRFParameter.Apply(Microsoft.OpenApi.Models.OpenApiOperation,Swashbuckle.AspNetCore.SwaggerGen.OperationFilterContext)">
+            <summary>
+            Adds CSRF parameter to the request.
+            </summary>
+            <param name="operation">operation.</param>
+            <param name="context">context.</param>
+        </member>
+    </members>
+</doc>

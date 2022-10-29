@@ -1,0 +1,10 @@
+[2022-10-17 11:39:13.3276] - [NMRAPIs.BusinessLogic.Middleware.RequestResponseLoggingMiddleware] [Http Request Information:
+Schema:https Host: localhost:44336 Path: /swagger/index.html QueryString:  Request Body: ] [Info] 
+[2022-10-17 11:39:13.7995] - [NMRAPIs.BusinessLogic.Middleware.RequestResponseLoggingMiddleware] [Http Request Information:
+Schema:https Host: localhost:44336 Path: /swagger/v1/swagger.json QueryString:  Request Body: ] [Info] 
+[2022-10-17 11:41:02.0213] - [NMRAPIs.BusinessLogic.Middleware.RequestResponseLoggingMiddleware] [Http Request Information:
+Schema:https Host: localhost:44336 Path: /swagger/index.html QueryString:  Request Body: ] [Info] 
+[2022-10-17 11:41:02.4211] - [NMRAPIs.BusinessLogic.Middleware.RequestResponseLoggingMiddleware] [Http Request Information:
+Schema:https Host: localhost:44336 Path: /swagger/v1/swagger.json QueryString:  Request Body: ] [Info] 
+[2022-10-17 11:41:49.0507] - [NMRAPIs.BusinessLogic.Middleware.RequestResponseLoggingMiddleware] [Http Request Information:
+Schema:https Host: localhost:44336 Path: /r2api/addresses QueryString: ?searchPrefix=test Request Body: ] [Info] 

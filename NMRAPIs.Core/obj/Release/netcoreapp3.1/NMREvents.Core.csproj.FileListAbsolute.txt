@@ -1,0 +1,10 @@
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Core\bin\Release\netcoreapp3.1\NMREvents.Core.deps.json
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Core\bin\Release\netcoreapp3.1\NMREvents.Core.dll
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Core\bin\Release\netcoreapp3.1\NMREvents.Core.pdb
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Core\obj\Release\netcoreapp3.1\NMREvents.Core.csproj.AssemblyReference.cache
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Core\obj\Release\netcoreapp3.1\NMREvents.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Core\obj\Release\netcoreapp3.1\NMREvents.Core.AssemblyInfoInputs.cache
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Core\obj\Release\netcoreapp3.1\NMREvents.Core.AssemblyInfo.cs
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Core\obj\Release\netcoreapp3.1\NMREvents.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Core\obj\Release\netcoreapp3.1\NMREvents.Core.dll
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Core\obj\Release\netcoreapp3.1\NMREvents.Core.pdb

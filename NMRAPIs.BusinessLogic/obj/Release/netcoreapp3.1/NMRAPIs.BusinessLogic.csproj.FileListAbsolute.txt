@@ -1,0 +1,5 @@
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMRAPIs.BusinessLogic\obj\Release\netcoreapp3.1\NMRAPIs.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMRAPIs.BusinessLogic\obj\Release\netcoreapp3.1\NMRAPIs.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMRAPIs.BusinessLogic\obj\Release\netcoreapp3.1\NMRAPIs.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMRAPIs.BusinessLogic\obj\Release\netcoreapp3.1\NMRAPIs.BusinessLogic.AssemblyInfo.cs
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMRAPIs.BusinessLogic\obj\Release\netcoreapp3.1\NMRAPIs.BusinessLogic.csproj.CoreCompileInputs.cache

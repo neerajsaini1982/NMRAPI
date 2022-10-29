@@ -1,0 +1,32 @@
+[2022-10-12 22:20:35.8749] - [NMREvents.BusinessLogic.Middleware.RequestResponseLoggingMiddleware] [Http Request Information:
+Schema:https Host: localhost:44336 Path: /swagger/index.html QueryString:  Request Body: ] [Info] 
+[2022-10-12 22:20:36.3429] - [NMREvents.BusinessLogic.Middleware.RequestResponseLoggingMiddleware] [Http Request Information:
+Schema:https Host: localhost:44336 Path: /swagger/v1/swagger.json QueryString:  Request Body: ] [Info] 
+[2022-10-12 22:21:44.9857] - [NMREvents.BusinessLogic.Middleware.RequestResponseLoggingMiddleware] [Http Request Information:
+Schema:https Host: localhost:44336 Path: /sqlapi/addresses/create QueryString:  Request Body: {
+ 
+  "addressLine": "8, Shital Tenament",
+  "city": "Ahmedabad",
+  "state": "Gujarat",
+  "zip": "384002"
+}] [Info] 
+[2022-10-12 22:22:11.8150] - [NMREvents.BusinessLogic.Middleware.RequestResponseLoggingMiddleware] [Http Request Information:
+Schema:https Host: localhost:44336 Path: /sqlapi/addresses/create QueryString:  Request Body: {
+ 
+  "addressLine": "8, Shital Tenament",
+  "city": "Ahmedabad",
+  "state": "Gujarat",
+  "zip": "384002"
+}] [Info] 
+[2022-10-12 22:23:58.9203] - [NMREvents.BusinessLogic.Middleware.RequestResponseLoggingMiddleware] [Http Request Information:
+Schema:https Host: localhost:44336 Path: /swagger/index.html QueryString:  Request Body: ] [Info] 
+[2022-10-12 22:23:59.4205] - [NMREvents.BusinessLogic.Middleware.RequestResponseLoggingMiddleware] [Http Request Information:
+Schema:https Host: localhost:44336 Path: /swagger/v1/swagger.json QueryString:  Request Body: ] [Info] 
+[2022-10-12 22:24:02.9280] - [NMREvents.BusinessLogic.Middleware.RequestResponseLoggingMiddleware] [Http Request Information:
+Schema:https Host: localhost:44336 Path: /sqlapi/addresses/create QueryString:  Request Body: {
+ 
+  "addressLine": "8, Shital Tenament",
+  "city": "Ahmedabad",
+  "state": "Gujarat",
+  "zip": "384002"
+}] [Info] 

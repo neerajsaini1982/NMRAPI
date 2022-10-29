@@ -1,0 +1,8 @@
+[2022-10-15 11:52:34.5690] [FluentValidationOperationFilter should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'] 
+[2022-10-15 11:52:34.5823] [FluentValidationRules should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'] 
+[2022-10-15 11:53:50.9036] [FluentValidationOperationFilter should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'] 
+[2022-10-15 11:53:50.9133] [FluentValidationRules should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'] 
+[2022-10-15 11:54:57.6637] [FluentValidationOperationFilter should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'] 
+[2022-10-15 11:54:57.6746] [FluentValidationRules should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'] 
+[2022-10-15 11:59:42.6424] [FluentValidationOperationFilter should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'] 
+[2022-10-15 11:59:42.6424] [FluentValidationRules should be registered in services. Hint: Use registration method 'AddFluentValidationRulesToSwagger'] 

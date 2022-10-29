@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\NMRAPIs</_PublishTargetUrl>
+    <History>False|2022-10-14T16:42:21.4093811Z;True|2022-10-14T17:27:31.7653971+05:30;False|2022-10-14T17:25:59.0197018+05:30;True|2022-10-14T17:08:10.7138120+05:30;True|2022-10-14T17:07:57.3354449+05:30;True|2022-10-14T16:55:01.6536920+05:30;False|2022-10-14T16:54:28.5563949+05:30;True|2022-10-14T15:40:47.7199219+05:30;</History>
+  </PropertyGroup>
+</Project>

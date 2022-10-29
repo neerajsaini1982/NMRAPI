@@ -1,0 +1,15 @@
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Infrastructure\bin\Release\netcoreapp3.1\NMREvents.Infrastructure.deps.json
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Infrastructure\bin\Release\netcoreapp3.1\NMREvents.Infrastructure.dll
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Infrastructure\bin\Release\netcoreapp3.1\NMREvents.Infrastructure.pdb
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Infrastructure\bin\Release\netcoreapp3.1\NMREvents.BusinessLogic.dll
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Infrastructure\bin\Release\netcoreapp3.1\NMREvents.Core.dll
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Infrastructure\bin\Release\netcoreapp3.1\NMREvents.BusinessLogic.pdb
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Infrastructure\bin\Release\netcoreapp3.1\NMREvents.Core.pdb
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Infrastructure\obj\Release\netcoreapp3.1\NMREvents.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Infrastructure\obj\Release\netcoreapp3.1\NMREvents.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Infrastructure\obj\Release\netcoreapp3.1\NMREvents.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Infrastructure\obj\Release\netcoreapp3.1\NMREvents.Infrastructure.AssemblyInfo.cs
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Infrastructure\obj\Release\netcoreapp3.1\NMREvents.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Infrastructure\obj\Release\netcoreapp3.1\NMREvents.Infrastructure.csproj.CopyComplete
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Infrastructure\obj\Release\netcoreapp3.1\NMREvents.Infrastructure.dll
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.Infrastructure\obj\Release\netcoreapp3.1\NMREvents.Infrastructure.pdb

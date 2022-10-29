@@ -1,0 +1,13 @@
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.BusinessLogic\bin\Release\netcoreapp3.1\NMREvents.BusinessLogic.deps.json
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.BusinessLogic\bin\Release\netcoreapp3.1\NMREvents.BusinessLogic.dll
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.BusinessLogic\bin\Release\netcoreapp3.1\NMREvents.BusinessLogic.pdb
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.BusinessLogic\bin\Release\netcoreapp3.1\NMREvents.Core.dll
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.BusinessLogic\bin\Release\netcoreapp3.1\NMREvents.Core.pdb
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.BusinessLogic\obj\Release\netcoreapp3.1\NMREvents.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.BusinessLogic\obj\Release\netcoreapp3.1\NMREvents.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.BusinessLogic\obj\Release\netcoreapp3.1\NMREvents.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.BusinessLogic\obj\Release\netcoreapp3.1\NMREvents.BusinessLogic.AssemblyInfo.cs
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.BusinessLogic\obj\Release\netcoreapp3.1\NMREvents.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.BusinessLogic\obj\Release\netcoreapp3.1\NMREvents.BusinessLogic.csproj.CopyComplete
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.BusinessLogic\obj\Release\netcoreapp3.1\NMREvents.BusinessLogic.dll
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMREvents.BusinessLogic\obj\Release\netcoreapp3.1\NMREvents.BusinessLogic.pdb

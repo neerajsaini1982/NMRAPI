@@ -1,0 +1,5 @@
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMRAPIs.Infrastructure\obj\Release\netcoreapp3.1\NMRAPIs.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMRAPIs.Infrastructure\obj\Release\netcoreapp3.1\NMRAPIs.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMRAPIs.Infrastructure\obj\Release\netcoreapp3.1\NMRAPIs.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMRAPIs.Infrastructure\obj\Release\netcoreapp3.1\NMRAPIs.Infrastructure.AssemblyInfo.cs
+C:\Users\Rahul\Downloads\NMREvents_1310\NMREvents_0710\NMRAPIs.Infrastructure\obj\Release\netcoreapp3.1\NMRAPIs.Infrastructure.csproj.CoreCompileInputs.cache

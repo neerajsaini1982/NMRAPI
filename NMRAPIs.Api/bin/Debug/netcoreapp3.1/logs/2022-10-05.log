@@ -1,0 +1,9 @@
+[2022-10-05 23:25:02.0702] - [NMREvents.BusinessLogic.Middleware.RequestResponseLoggingMiddleware] [Http Request Information:
+Schema:https Host: localhost:44336 Path: /api/Profile QueryString: ?userId=11 Request Body: ] [Info] 
+[2022-10-05 23:25:02.1307] - [NMREvents.BusinessLogic.MediatRPiplelineBehavior.PerformanceLoggingBehavior] [Task Performance (Demo): GetAllUsersCommand (41 milliseconds)] [Info] 
+[2022-10-05 23:29:16.1038] - [NMREvents.BusinessLogic.Middleware.RequestResponseLoggingMiddleware] [Http Request Information:
+Schema:https Host: localhost:44336 Path: /swagger/index.html QueryString:  Request Body: ] [Info] 
+[2022-10-05 23:29:16.4891] - [NMREvents.BusinessLogic.Middleware.RequestResponseLoggingMiddleware] [Http Request Information:
+Schema:https Host: localhost:44336 Path: /swagger/v1/swagger.json QueryString:  Request Body: ] [Info] 
+[2022-10-05 23:29:25.0348] - [NMREvents.BusinessLogic.Middleware.RequestResponseLoggingMiddleware] [Http Request Information:
+Schema:https Host: localhost:44336 Path: /api/Profile QueryString: ?userId=963 Request Body: ] [Info] 

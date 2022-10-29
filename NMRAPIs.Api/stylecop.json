@@ -1,0 +1,29 @@
+﻿{
+  // ACTION REQUIRED: This file was automatically added to your project, but it
+  // will not take effect until additional steps are taken to enable it. See the
+  // following page for additional information:
+  //
+  // https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/EnableConfiguration.md
+
+  "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+  "settings": {
+    "documentationRules": {
+      "companyName": "NMRAPIs",
+      "copyrightText": "This source code is owned by {companyName} and is not allowed to be copied, reproduced,\npublished, distributed or transmitted to or stored in any manner without prior\nwritten consent from {companyName}. {companyWebSite}.",
+      "xmlHeader": true,
+      "variables": {
+        "companyWebSite": "www.NMRAPIs.com"
+      },
+      "documentPrivateElements": true,
+      "documentationCulture": "en-US"
+    },
+    "indentation": {
+      "indentationSize": 4,
+      "tabSize": 4,
+      "useTabs": false
+    },
+    "namingRules": {
+      "allowCommonHungarianPrefixes": false
+    }
+  }
+}
