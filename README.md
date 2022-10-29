@@ -1,0 +1,2 @@
+# NMRAPI
+All the API
